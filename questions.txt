@@ -1,0 +1,15 @@
+1.Explain what the terminal is in your own words?
+
+The terminal is like a command center for your computer where you can type text commands to perform tasks, navigate files, and interact with the operating system. It's like talking directly to your computer in their language.
+
+2. What is the major difference between Git and Github?
+Git is like a recording device for code. It helps you keep track of changes you make to your files, collaborate with others, and helps you revert back to previous version if needed.
+
+3. What are the steps to fork a GotHub repository?
+
+1. Search the GitHub repository you want to fork
+2. Click the "fork" button
+3. Rename the repository if you want to
+4. Click "create fork"
+5. Clone to your local device, make changes or suggest changes to the original repository 
+
